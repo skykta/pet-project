@@ -6,7 +6,7 @@
 
 body {
 	min-height: 10vh;
-	background-image: url('../E-commerce-PP/images/techBackgorund.jpg');
+	background-image: url(../images/techBackgorund.jpg);
 	background-size: 100%;
 	background-repeat: no-repeat;
 }

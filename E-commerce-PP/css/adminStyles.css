@@ -5,6 +5,8 @@ body {
 /* navbar */
 .sidebar {
     height: 100vh;
-    background-image: url(images/sidebarBackground.jpeg);
+    background: url(../images/sidebarBackground2.jpg);
+    background-position: center;
+    background-size: cover;
 }
-/* end of navbar*/
+/* end of navbar*/  

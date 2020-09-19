@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #eee;
+}
+/* navbar */
+.sidebar {
+    height: 100vh;
+    background-image: url(images/sidebarBackground.jpeg);
+}
+/* end of navbar*/
